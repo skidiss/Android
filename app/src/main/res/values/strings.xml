@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">Dermaskin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="desc_penjelasan_Rosacea">Rosacea adalah penyakit kulit wajah yang ditandai dengan kulit kemerahan disertai bintik-bintik menyerupai jerawat. Kondisi ini juga dapat menyebabkan kulit wajah menebal dan pembuluh darah di wajah membengkak.</string>
+    <string name="desc_penyebab_Rosacea">Terpapar sinar matahari
+Terkena angin yang kencang
+Terjadi perubahan suhu udara dingin atau panas yang esktrem
+Mengonsumsi makanan pedas atau minuman panas
+Mengonsumsi minuman beralkohol
+Minum obat-obatan yang bisa melebarkan pembuluh darah, seperti obat antihipertensi
+Mengalami efek samping penggunaan produk perawatan kulit dan rambut
+Melakukan olahraga yang terlalu berat
+Mengalami stres</string>
+    <string name="desc_penyembuhan_Rosacea">Obat antibiotik, seperti doxycycline, untuk membunuh bakteri di kulit dan meredakan kemerahan atau pembengkakan di wajah
+Obat tetes mata dan antibiotik, untuk menangani ocular rosacea
+Obat oles jerawat, seperti oxymetazoline, metronidazole, asam azelaic, atau ivermectin, untuk meredakan kemerahan dan bintik di kulit yang menyerupai jerawat
+Madu, pijatkan madu di area kulit yang terkena selama 3-5 menit, biarkannya meresap ke dalam kulit, diamkan selama setengah jam, kemudian bilas dengan air hangat.
+Mentimun, poton mentimun yang sudah didinginkan di dalam kulkas, letakkan irisan di daerah kulit yang terkena rosacea, biarkan selama 10-15 menit kemudian bilas.
+Aloe vera ( Lidah buaya ), oleskan sedikit gel aloe vera pada kulit yang terkena rosacea, biarkan kurang lebih selama 15-20 menit hingga mengering dan bilas dengan air dingin. Selain itu, usahakan untuk mengambil aloe vera yang segar dari pohonnya.</string>
+    <string name="desc_penjelasan_Jerawat">Jerawat merupakan gangguan pada kulit. Kondisi ini disebabkan oleh produksi minyak (sebum) yang terjadi secara berlebihan. Minyak berlebih dapat menyumbat pori-pori kulit.</string>
+    <string name="desc_penyebab_Jerawat">Produksi sebum berlebih, yaitu zat yang diproduksi oleh kelenjar minyak untuk mencegah kulit kering.
+Bakteri yang menyumbat pori-pori kulit.
+Hormon, yaitu saat aktivitas hormon androgen berlebih atau saat terjadi perubahan hormon saat masa menstruasi.
+Penggunaan kosmetik yang tidak selalu dapat diterima untuk semua kulit.</string>
+    <string name="desc_penyembuhan_Jerawat">Mengoleskan lidah buaya, hal ini bertujuan untuk mengurangi peradangan yang diakibatkan jerawat.
+Mengurangi stress
+Olahraga secara teratur
+Membuat masker putih telur, pisahkan 3 putih telur dari kuningnya, kemudian kocok putih telur selama 3 menit, oleskan putih telur pada area yang timbul jerawat, tunggu putih telur mengering dan ulangi proses tersebut sampai 4 kali, diamkan masker di wajah selama 20 menit, kemudian bilas masker dan oleskan pelembab kulit.</string>
+    <string name="desc_penjelasan_Eksim">Dermatitis atopik atau biasa disebut Eksim adalah penyakit kulit yang ditandai dengan kulit kering, gatal secara terus-menerus, kulit yang menjadi kasar, menebal, bersisik.dan ruam merah di kulit.Kondisi ini dapat muncul pada satu atau beberapa bagian tubuh, dan umumnya terjadi di wajah, lengan, dan kaki. Kondisi ini tidak menular dan biasanya muncul pada bayi atau balita, serta bisa kambuh hingga dewasa</string>
+    <string name="desc_penyebab_Eksim">kulit yang kering,
+logam dalam perhiasan atau aksesori pakaian,
+parfum dan produk-produk mengandung zat pewangi,
+sabun, sampo, dan produk pembersih sejenisnya,
+salep antibakteri seperti neomycin dan bacitracin,
+losion dan produk-produk perawatan kulit,
+paraphenylenediamine yang terdapat dalam pewarna pakaian, tato sementara, dan lain-lain.</string>
+    <string name="desc_penyembuhan_Eksim">Tidak ada pengobatan yang dapat menyembuhkan eksim secara tuntas. Namun, ada beberapa pilihan pengobatan eksim yang dapat meringankan gejala dermatitis atopik :
+Menghindari pemicunya
+Menjaga kulit tetap lembap
+Tidak menggaruk kulit
+Mengompres kulit dengan air dingin atau hangat
+Mandi air hangat
+Gunakan sabun berbahan ringan (seperti sabun yang berbahan dasar susu tanpa kandugan pewarna atau parfum)
+Menggunakan humidifier
+Menggunakan pakaian bertekstur halus
+Mengelola stres sebaik mungkin.</string>
+    <string name="desc_penjelasan_Alergi_Kulit">Alergi pada kulit atau dikenal dengan istilah Dermatitis kontak  adalah peradangan kulit yang ditandai dengan ruam kulit yang gatal kemerahan, yang timbul akibat iritasi setelah kontak langsung dengan zat tertentu, atau akibat reaksi alergi terhadap zat tertentu. Dermatitis kontak terbagi menjadi dua jenis, yaitu dermatitis kontak alergi dan dermatitis kontak iritan.</string>
+    <string name="desc_penyebab_Alergi_Kulit">Dermatitis kontak disebabkan oleh zat yang mengiritasi kulit atau memicu reaksi alergi. Substansi bisa menjadi salah satu dari ribuan alergen dan iritasi yang diketahui. Beberapa zat dapat menyebabkan dermatitis kontak iritan dan dermatitis kontak alergi. </string>
+    <string name="desc_penyembuhan_Alergi_Kulit">Beberapa cara yang dapat dilakukan untuk mengatasi dermatitis kontak, antara lain:
+Menghindari paparan zat yang menjadi penyebab iritasi atau alergi di kulit.
+Berhenti menggunakan produk yang mengandung zat pemicu iritasi atau alergi.
+Menggunakan pelembab kulit.
+Mengompres area dermatitis kontak dengan kompres dingin.
+Menghindari garukan pada area kulit yang mengalami dermatitis kontak.
+Melindungi tangan dengan menggunakan sarung tangan jika diperlukan.
+Mengkonsumsi obat-obatan kortikosteroid, baik dalam bentuk salep maupun tablet.
+Terapi imunosupresan, yaitu pemberian obat-obatan yang menekan sistem kekebalan tubuh, untuk mengurangi peradangan.
+Fototerapi. Tindakan medis ini dilakukan dengan menggunakan paparan sinar UV untuk membantu mengembalikan tampilan kulit yang terkena dermatitis kontak.
+</string>
+    <string name="desc_penjelasan_Psoriasis">Psoriasis adalah peradangan pada kulit yang menyebabkan kulit bersisik, menebal, mudah terkelupas, dan kadang juga terasa gatal. Psoriasis biasanya muncul di kulit bagian lutut, siku, punggung bagian bawah, dan kulit kepala.
+
+Pada keadaan normal, proses pergantian sel-sel kulit membutuhkan waktu sekitar 1 bulan. Namun, pada penderita psoriasis, proses tersebut bisa terjadi hanya dalam beberapa hari. Akibatnya, pergantian sel-sel kulit yang terlalu cepat menyebabkan penebalan pada kulit.
+</string>
+    <string name="desc_penyebab_Psoriasis">Penyebab psoriasis belum diketahui secara pasti. Namun, kondisi ini diduga terjadi akibat gangguan sistem kekebalan tubuh. Selain itu, ada faktor-faktor yang dapat menjadi pemicu psoriasis, seperti stres, infeksi tenggorokan, dan cuaca dingin.
+</string>
+    <string name="desc_penyembuhan_Psoriasis">Pengobatan psoriasis bertujuan untuk meredakan gejala. Adapun metode pengobatannya disesuaikan dengan usia dan tingkat keparahan pasien. Tindakan yang bisa dilakukan adalah pemberian obat oles, obat tablet, obat suntik, atau terapi khusus menggunakan pancaran sinar ultraviolet.
+
+Langkah utama untuk mencegah psoriasis adalah dengan menghindari faktor pemicunya. Beberapa upaya yang dapat dilakukan adalah berhenti merokok, mengelola stres dengan baik, mengonsumsi makanan bergizi seimbang, dan menggunakan tabir surya.
+</string>
+    <string name="desc_penjelasan_Lichen_Planus">Lichen Planus (LP) adalah penyakit autoimun berupa peradangan kronis pada kulit, selaput lendir (mukosa), dan kuku. Terkadang LP dapat terjadi pada dua tempat berbeda, pada kulit dan selaput lendir. LP dapat terjadi pada siapa saja dan bukan merupakan penyakit menular.</string>
+    <string name="desc_penyebab_Lichen_Planus">LP merupakan penyakit autoimun di mana sel-sel kekebalan tubuh menyerang kulit dan selaput lendir, sehingga menimbulkan reaksi peradangan. Belum jelas apa yang menjadi penyebab pasti. Namun, sejumlah faktor pemicu dapat meningkatkan risiko terjadinya LP pada seseorang.
+Berikut ini beberapa faktor yang meningkatkan risiko terjadinya LP:
+Rentan dialami orang di usia 45 tahun.
+Wanita lebih berisiko terkena LP mulut ketimbang pria.
+Faktor genetik.
+Mengidap infeksi hepatitis C.
+Melakukan vaksin influenza.
+Penggunaan obat-obatan darah tinggi, obat anti-malaria, obat golongan penghambat pompa proton, dan obat golongan antiinflamasi nonsteroid.
+Paparan logam merkuri atau bahan kimia lainnya.
+</string>
+    <string name="desc_penyembuhan_Lichen_Planus">Langkah perawatan rumahan yang dapat menunjang proses pengobatan dapat dilakukan dengan:
+Tidak menggaruk ruam yang gatal untuk mencegah iritasi pada kulit.
+Mengompres lesi dengan air dingin.
+Menggunakan lotion pelembap setelah mandi.
+
+Pada LP mulut, berikut ini langkah perawatan rumahan untuk meminimalkan rasa tidak nyaman akibat munculnya gejala:
+Menjaga kebersihan mulut dan gigi.
+Menggunakan obat kumur.
+Tidak merokok, minum alkohol, dan mengonsumsi makanan dan minuman yang pedas atau asam.
+</string>
+    <string name="desc_penjelasan_Herpes">Herpes adalah penyakit yang ditandai dengan munculnya lepuhan berwarna kemerahan dan berisi cairan pada kulit. Penyakit ini termasuk dalam penyakit jangka panjang, karena virusnya bisa bertahan seumur hidup di dalam tubuh seseorang. Dua jenis herpes yang umum dialami, yaitu:
+
+Herpes simpleks, yaitu penyakit yang disebabkan oleh virus herpes simpleks (HSV) tipe 1 dan 2.
+
+Herpes zoster, yaitu penyakit yang disebabkan oleh virus varicella-zoster atau virus yang sama dengan penyebab cacar air.</string>
+    <string name="desc_penyebab_Herpes">1. Oatmeal
+Sebagai obat herpes alami, oatmeal biasanya dicampurkan ke dalam air hangat yang digunakan untuk mandi atau berendam anak-anak yang terinfeksi.Selain itu  juga bisa memakai oatmeal yang telah dilarutkan untuk dicampur ke dalam air hangat.
+
+2. Soda kue
+Bahan dapur seperti soda kue dapat digunakan sebagai obat tradisional untuk meredakan rasa gatal pada kulit yang terkena infeksi herpes. Soda kue dapat dilarutkan ke dalam air hangan dan dioles pada bagian kulit yang terinfeksi virus Herpes.
+
+3. Madu
+Madu memiliki sifat antiradang yang dapat membantu meredakan infeksi akibat virus herpes. Selain itu, kandungan propolis dalam madu juga dapat melembapkan kulit yang kering karena infeksi.
+Penggunaan madu sebagai obat alami bisa langsung dioleskan pada bagian ruam atau luka herpes yang mengering, tanpa perlu dilarutkan terlebih dahulu.
+
+4. Lidah buaya
+Lidah buaya dipercaya memiliki banyak khasiat untuk kesehatan kulit, termasuk untuk pemulihan berbagai penyakit kulit.
+Sebagai obat alami herpes, lidah buaya dapat menenangkan kulit yang mengalami peradangan akibat infeksi. Lidah buaya bisa diambil cairan atau ekstraknya tanpa perlu dilarutkan sebelumnya. Lidah buaya kemudian dapat mengoleskannya secara langsung pada bagian ruam luka herpes yang kering sehingga lebih cepat sembuh.
+</string>
+    <string name="desc_penyembuhan_Herpes">Herpes adalah penyakit yang ditandai dengan munculnya lepuhan berwarna kemerahan dan berisi cairan pada kulit. Penyakit ini termasuk dalam penyakit jangka panjang, karena virusnya bisa bertahan seumur hidup di dalam tubuh seseorang. Dua jenis herpes yang umum dialami, yaitu:
+
+Herpes simpleks, yaitu penyakit yang disebabkan oleh virus herpes simpleks (HSV) tipe 1 dan 2.
+
+Herpes zoster, yaitu penyakit yang disebabkan oleh virus varicella-zoster atau virus yang sama dengan penyebab cacar air.</string>
+    <string name="desc_penjelasan_HPV">HPV adalah singkatan dari human papillomavirus. HPV merupakan infeksi menular seksual yang umum yang dapat mempengaruhi kulit seseorang. Namun, setiap virus yang terlibat berbeda. Infeksi memerlukan perawatan yang berbeda, dan mereka dapat memiliki efek jangka panjang yang berbeda pada tubuh.
+Ada juga berbagai jenis dari masing-masing virus ini. Setiap jenis menyebabkan gejala yang berbeda, dan mereka dapat mempengaruhi bagian tubuh yang berbeda.
+</string>
+    <string name="desc_penyebab_HPV">DAPATKAH VIRUS HPV DAPAT DIHILANGKAN ?
+Meskipun beberapa penyakit yang muncul akibat virus HPV dapat diobati, tetapi virus HPV sendiri tidak akan bisa dihilangkan dari tubuh. Virus HPV tetap akan berada dalam tubuh dan bisa ditularkan ke orang lain meskipun beberapa penyakit dari virus HPV sudah dihilangkan.
+
+Namun, ada beberapa cara yang bisa dilakukan untuk melakukan pencegahan terhadap virus HPV. Salah satunya adalah pemberian vaksinasi. Ada beberapa vaksinasi yang bisa kamu lakukan untuk mencegah penyebaran virus HPV pada tubuh kamu. Biasanya, vaksin ini dianjurkan bagi remaja wanita yang berusia antara 10 hingga 26 tahun.</string>
+    <string name="desc_penyembuhan_HPV">Penyebab HPV adalah human papillomavirus tipe 6, 11, 16, dan 18, yang menyebabkan kutil kelamin dan kanker serviks. HPV ditularkan melalui hubungan intim atau aktivitas seks lainnya.
+
+Virus dapat menyebar, meskipun seseorang yang membawa virus tidak memiliki gejala atau tidak merasa sakit. Kutil dan kanker serviks dapat terbentuk setelah beberapa tahun terpapar HPV.
+
+Faktor Risiko HPV
+Beberapa faktor risiko infeksi HPV, antara lain:
+
+Berhubungan intim dengan lebih dari satu pasangan.
+Berbagi barang pribadi, seperti handuk, sapu tangan, atau kaus kaki.
+Kulit yang rusak, seperti pada luka terbuka.
+Sistem kekebalan tubuh lemah, seperti pada pengidap HIV/AIDS atau menjalani kemoterapi.
+Tidak menjaga kebersihan dengan baik.
+Usia remaja dan kalangan dewasa muda.</string>
+    <string name="desc_penjelasan_infeksi_kulit">Dermatitis kontak adalah peradangan kulit yang ditandai dengan ruam kulit yang gatal kemerahan, yang timbul akibat iritasi setelah kontak langsung dengan zat tertentu, atau akibat reaksi alergi terhadap zat tertentu. Dermatitis kontak terbagi menjadi dua jenis, yaitu dermatitis kontak alergi dan dermatitis kontak iritan.</string>
+    <string name="desc_penyebab_infeksi_kulit">Dermatitis kontak disebabkan oleh zat yang mengiritasi kulit atau memicu reaksi alergi. Substansi bisa menjadi salah satu dari ribuan alergen dan iritasi yang diketahui. Beberapa zat dapat menyebabkan dermatitis kontak iritan dan dermatitis kontak alergi.
+</string>
+    <string name="desc_penyembuhan_infeksi_kulit">Beberapa cara yang dapat dilakukan untuk mengatasi dermatitis kontak, antara lain:
+Menghindari paparan zat yang menjadi penyebab iritasi atau alergi di kulit.
+Berhenti menggunakan produk yang mengandung zat pemicu iritasi atau alergi.
+Menggunakan pelembab kulit.
+Mengompres area dermatitis kontak dengan kompres dingin.
+Menghindari garukan pada area kulit yang mengalami dermatitis kontak.
+Melindungi tangan dengan menggunakan sarung tangan jika diperlukan.
+Mengkonsumsi obat-obatan kortikosteroid, baik dalam bentuk salep maupun tablet.
+Terapi imunosupresan, yaitu pemberian obat-obatan yang menekan sistem kekebalan tubuh, untuk mengurangi peradangan.
+Fototerapi. Tindakan medis ini dilakukan dengan menggunakan paparan sinar UV untuk membantu mengembalikan tampilan kulit yang terkena dermatitis kontak.
+</string>
+
+</resources>

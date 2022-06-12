@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fffccf"
+    tools:context=".InfeksiKulit">
+
+    <ImageButton
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        android:id="@+id/btnback"
+        android:layout_width="54dp"
+        android:layout_height="60dp"
+        android:padding="20dp"
+        android:src="@drawable/ic_baseline_arrow_back_24"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="225dp"
+        android:layout_marginTop="76dp"
+        android:background="@drawable/infeksikulit"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <RelativeLayout
+
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="430dp"
+        android:background="@drawable/rounded_corner_view"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <Button
+            android:id="@+id/btnEksim"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="127dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginEnd="129dp"
+            android:gravity="center_horizontal"
+            android:text="Infeksi kulit"
+            android:textSize="15dp"
+            app:cornerRadius="13dp" />
+
+
+    </RelativeLayout>
+
+
+
+
+    <com.google.android.material.button.MaterialButtonToggleGroup
+        android:id="@+id/materialButtonToggleGroup"
+        android:layout_width="388dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="67dp"
+        android:gravity="center"
+        app:layout_constraintBottom_toTopOf="@+id/relativeLayout2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/relativeLayout"
+        app:singleSelection="true">
+
+        <Button
+            style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+            android:id="@+id/btnpenjelasan"
+            android:layout_width="126dp"
+            android:layout_height="wrap_content"
+            android:text="Penjelasan"
+            android:textAllCaps="false" />
+
+        <Button
+            style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+            android:id="@+id/btnpenyebab"
+            android:layout_width="126dp"
+            android:layout_height="wrap_content"
+            android:text="Penyebab"
+            android:textAllCaps="false" />
+
+        <Button
+            style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+            android:id="@+id/btnpenyembuhan"
+            android:layout_width="126dp"
+            android:layout_height="wrap_content"
+            android:text="Penyembuhan"
+            android:textAllCaps="false"
+            android:textSize="12dp" />
+
+    </com.google.android.material.button.MaterialButtonToggleGroup>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="239dp"
+        android:layout_margin="8dp"
+        android:background="@drawable/rounded_corner_desc"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars = "vertical"
+            android:paddingTop="12dp"
+            android:paddingBottom="12dp"
+            android:fillViewport="true">
+
+            <TextView
+                android:id="@+id/descpenyakit"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fontFamily="@font/inder"
+                android:justificationMode="inter_word"
+                android:padding="12dp"
+                android:text="@string/desc_penjelasan_infeksi_kulit"
+                android:textColor="#292929"
+                android:textSize="17dp"
+                android:scrollbars = "vertical"/>
+
+        </ScrollView>
+
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
